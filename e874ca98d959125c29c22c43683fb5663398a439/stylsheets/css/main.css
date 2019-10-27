@@ -21,6 +21,12 @@ a {
   color: inherit;
   text-decoration: none; }
 
+
+#header-overview {
+  background: linear-gradient(rgba(37, 91, 180, 0.9), rgba(12, 27, 55, 0.9)), url("../../assets/backgasdround.jpg") no-repeat center center;
+  background-size: cover;
+}
+
 #header-wrapper-a {
   background: linear-gradient(rgba(37, 91, 180, 0.9), rgba(12, 27, 55, 0.9)), url("../../assets/OPTION_A.png") no-repeat center center;
   background-size: cover;
